@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2> Hi, I'm Likitha Kodidela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<!--
-**LikithaKodidela/LikithaKodidela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Aspiring Software Developer | B.Tech Computer Science at <a href="https://www.sastra.edu">SASTRA Deemed University</a> 🎓 <br>
+Currently learning the MERN stack and exploring full-stack development 💻
+</em></p>
 
-Here are some ideas to get you started:
+<!-- LinkedIn badge -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/likitha-kodidela/)](https://www.linkedin.com/in/likitha-kodidela/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat-square&logo=github)](https://likithakodidela.github.io/Portfolio/)
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+```javascript
+const likitha = {
+  pronouns: "she/her",
+  code: [C++, Java, JavaScript, Python, HTML, CSS, SQL],
+  tools: [React, Node, MongoDB, Express, Git, GitHub, Bootstrap],
+  interests: ["Full-Stack Web Development", "Cybersecurity", "Blockchain"],
+  challenge: "Learning MERN stack & building real-world projects #LearningAndGrowingEveryDay"
+}
