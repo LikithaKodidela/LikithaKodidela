@@ -1,7 +1,7 @@
 <h2> Hi, I'm Likitha Kodidela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Aspiring Software Developer | B.Tech Computer Science at <a href="https://www.sastra.edu">SASTRA Deemed University</a> 🎓 <br>
+<p><em>Aspiring Software Developer | Computer Science Student 🎓 <br>
 Currently learning the MERN stack and exploring full-stack development 💻
 </em></p>
 
